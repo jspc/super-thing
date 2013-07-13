@@ -1,0 +1,3 @@
+[submodule "deploy/salt_roots/salt/common"]
+	path = deploy/salt_roots/salt/common
+	url = git@github.com:jspc/salt-states.git
